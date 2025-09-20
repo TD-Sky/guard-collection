@@ -351,4 +351,10 @@ M.tombi = {
   stdin = true,
 }
 
+M.d2 = {
+  cmd = 'd2',
+  args = { 'fmt', '-' },
+  stdin = true,
+}
+
 return M

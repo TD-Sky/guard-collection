@@ -59,6 +59,7 @@
 - [yamlfmt](https://github.com/google/yamlfmt)
 - [zigfmt](https://github.com/ziglang/zig)
 - [tombi](https://github.com/tombi-toml/tombi)
+- [d2](https://d2lang.com)
 
 ## Linters
 
